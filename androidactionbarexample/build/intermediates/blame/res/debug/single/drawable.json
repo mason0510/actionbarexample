@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_title_home_demo.png",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\src\\main\\res\\drawable\\ic_title_home_demo.png"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_btn.xml",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\exploded-aar\\actionbarexample\\androidactionbarlibrary\\unspecified\\res\\drawable\\actionbar_btn.xml"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_btn_normal.xml",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\exploded-aar\\actionbarexample\\androidactionbarlibrary\\unspecified\\res\\drawable\\actionbar_btn_normal.xml"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_back_indicator.png",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\exploded-aar\\actionbarexample\\androidactionbarlibrary\\unspecified\\res\\drawable\\actionbar_back_indicator.png"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_btn_pressed.xml",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\exploded-aar\\actionbarexample\\androidactionbarlibrary\\unspecified\\res\\drawable\\actionbar_btn_pressed.xml"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_background.xml",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\exploded-aar\\actionbarexample\\androidactionbarlibrary\\unspecified\\res\\drawable\\actionbar_background.xml"
+    }
+]

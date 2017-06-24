@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\NewProject\actionbarexample\androidactionbarexample\build\intermediates\exploded-aar\actionbarexample\androidactionbarlibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="29b619e45b04e84ab8fda6806484611518fb93a5">
+        <dex dex="D:\NewProject\actionbarexample\androidactionbarexample\build\intermediates\pre-dexed\debug\actionbarexample-androidactionbarlibrary-unspecified_ef12307d2f278e2499fed5463a9d9fabbf9f6558.jar" />
+    </item>
+
+</items>

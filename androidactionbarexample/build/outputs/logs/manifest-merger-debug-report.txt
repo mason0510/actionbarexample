@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:3:7-59
+		INJECTED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml
+		INJECTED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml
+		INJECTED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml
+		INJECTED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:6:5-19:19
+MERGED from [actionbarexample:androidactionbarlibrary:unspecified] D:\NewProject\actionbarexample\androidactionbarexample\build\intermediates\exploded-aar\actionbarexample\androidactionbarlibrary\unspecified\AndroidManifest.xml:11:5-14:19
+	android:label
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:6:48-80
+	android:icon
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:6:18-47
+activity#com.markupartist.android.actionbar.example.HomeActivity
+ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:7:9-14:20
+	android:label
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:8:19-51
+	android:theme
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:9:19-66
+	android:name
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:7:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:12:27-74
+activity#com.markupartist.android.actionbar.example.OtherActivity
+ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:15:9-18:20
+	android:label
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:16:19-51
+	android:theme
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:17:19-66
+	android:name
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:15:19-48
+uses-sdk
+ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:20:5-71
+MERGED from [actionbarexample:androidactionbarlibrary:unspecified] D:\NewProject\actionbarexample\androidactionbarexample\build\intermediates\exploded-aar\actionbarexample\androidactionbarlibrary\unspecified\AndroidManifest.xml:7:5-9:40
+	android:targetSdkVersion
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:20:41-69
+		INJECTED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml
+		INJECTED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml:20:15-40
+		INJECTED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml
+		INJECTED from D:\NewProject\actionbarexample\androidactionbarexample\src\main\AndroidManifest.xml

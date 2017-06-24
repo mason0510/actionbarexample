@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar.xml",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\exploded-aar\\actionbarexample\\androidactionbarlibrary\\unspecified\\res\\layout\\actionbar.xml"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\res\\merged\\debug\\layout\\other.xml",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\src\\main\\res\\layout\\other.xml"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_item.xml",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\exploded-aar\\actionbarexample\\androidactionbarlibrary\\unspecified\\res\\layout\\actionbar_item.xml"
+    }
+]

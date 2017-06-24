@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/actionbarexample.iml" filepath="$PROJECT_DIR$/actionbarexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidactionbarexample/androidactionbarexample.iml" filepath="$PROJECT_DIR$/androidactionbarexample/androidactionbarexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidactionbarlibrary/androidactionbarlibrary.iml" filepath="$PROJECT_DIR$/androidactionbarlibrary/androidactionbarlibrary.iml" />
+    </modules>
+  </component>
+</project>

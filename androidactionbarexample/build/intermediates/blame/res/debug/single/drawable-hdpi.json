@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_title_export_default.png",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\src\\main\\res\\drawable-hdpi\\ic_title_export_default.png"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_title_home_default.png",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\src\\main\\res\\drawable-hdpi\\ic_title_home_default.png"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_title_share_default.png",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarexample\\src\\main\\res\\drawable-hdpi\\ic_title_share_default.png"
+    }
+]

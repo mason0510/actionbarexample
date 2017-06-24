@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\actionbar_btn_normal.xml",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\actionbar_btn_normal.xml"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\icon.png",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\actionbar_background.xml",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\actionbar_background.xml"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\actionbar_back_indicator.png",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\actionbar_back_indicator.png"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\actionbar_btn.xml",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\actionbar_btn.xml"
+    },
+    {
+        "merged": "D:\\NewProject\\actionbarexample\\androidactionbarlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\actionbar_btn_pressed.xml",
+        "source": "D:\\NewProject\\actionbarexample\\androidactionbarlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\actionbar_btn_pressed.xml"
+    }
+]
